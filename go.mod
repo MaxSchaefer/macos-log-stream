@@ -1,3 +1,3 @@
-module github.com/MaxSchaefer/go-macos-log-stream
+module github.com/MaxSchaefer/macos-log-stream
 
 go 1.18
