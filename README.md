@@ -13,7 +13,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/MaxSchaefer/go-macos-log-stream/pkg/mls"
+	"github.com/MaxSchaefer/macos-log-stream/pkg/mls"
 )
 
 func main() {
